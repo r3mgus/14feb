@@ -16,7 +16,7 @@ const getNoButtonText = () => {
     'No',
     'Please 🥹',
     'Are you sure?',
-    'Bitte schön 🥺',
+    'Bitte bitte 🥺',
     'What if I asked really nicely? 🥰',
     'With a chocolate cake on top',
     'What about a matcha frostie?',
