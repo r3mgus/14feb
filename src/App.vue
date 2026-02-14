@@ -22,7 +22,7 @@ const getNoButtonText = () => {
     'What about a matcha frostie?',
     'PLEASE POOKIE',
     'Очень прошу тебя 🥺',
-    'What if I take you out on 100 dates when you come back to Ingolstadt?',
+    'What if I take you out on many dates when you come back to Ingolstadt?',
     'But 😭',
     'I am going to die 😫',
     'Yep im dead 🫡',
